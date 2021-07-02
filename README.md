@@ -4,4 +4,4 @@ First of all start with the base as the sarting part, place the base in the prop
 All the other parts fall down above the base in proper configuration starting with;base, Waist, Arm1, Arm2, Gripper.
 
 
-Make sure all the joint they are in good place, You can now the place of each joint just by visualize.
+Make sure all the joint they are in good place, Must be the two joint coincide with each other, You can know the place of each joint just by visualize them.
